@@ -8,5 +8,5 @@
 
 ## Testar se funcionou
 Abrir o localhost:8080 e ver se está assim:
-![alt text](image.png)
+![tela web do localhost:8080](image.png)
 Os dois workers devem aparecer ali
