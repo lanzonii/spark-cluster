@@ -7,6 +7,8 @@
 `docker compose up -d`
 
 ## Testar se funcionou
-Abrir o localhost:8080 e ver se está assim:
+Abrir o localhost:8080 e ver se está assim
+<br/>
 ![tela web do localhost:8080](image.png)
+<br/>
 Os dois workers devem aparecer ali
