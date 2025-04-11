@@ -1,0 +1,1001 @@
+id,nome,idade,cidade,compras,valor_total
+1,Cliente_1,25,Rio de Janeiro,12,3903.2
+2,Cliente_2,43,Belo Horizonte,15,1602.14
+3,Cliente_3,20,Salvador,2,465.09
+4,Cliente_4,50,Salvador,8,3142.34
+5,Cliente_5,39,Rio de Janeiro,18,451.91
+6,Cliente_6,21,São Paulo,16,2749.73
+7,Cliente_7,47,Salvador,19,4164.6
+8,Cliente_8,50,Salvador,17,4476.32
+9,Cliente_9,39,Rio de Janeiro,4,1281.17
+10,Cliente_10,61,Curitiba,15,2161.04
+11,Cliente_11,63,Salvador,6,138.48
+12,Cliente_12,42,São Paulo,4,4728.26
+13,Cliente_13,27,Belo Horizonte,4,2575.41
+14,Cliente_14,54,Curitiba,12,1109.47
+15,Cliente_15,63,Belo Horizonte,12,493.06
+16,Cliente_16,58,Belo Horizonte,17,935.59
+17,Cliente_17,28,Salvador,10,3848.03
+18,Cliente_18,59,Salvador,12,692.38
+19,Cliente_19,65,Belo Horizonte,13,1173.32
+20,Cliente_20,29,Belo Horizonte,19,3005.44
+21,Cliente_21,54,Salvador,3,2232.36
+22,Cliente_22,34,Belo Horizonte,8,3957.4
+23,Cliente_23,44,Salvador,14,143.73
+24,Cliente_24,65,São Paulo,13,216.25
+25,Cliente_25,42,Salvador,16,106.27
+26,Cliente_26,37,Belo Horizonte,12,3341.79
+27,Cliente_27,46,Belo Horizonte,5,797.32
+28,Cliente_28,31,Curitiba,6,703.44
+29,Cliente_29,28,Rio de Janeiro,10,3078.85
+30,Cliente_30,22,Salvador,10,4434.09
+31,Cliente_31,42,São Paulo,19,672.17
+32,Cliente_32,48,Curitiba,10,3536.34
+33,Cliente_33,20,Belo Horizonte,18,260.21
+34,Cliente_34,47,Rio de Janeiro,9,3859.29
+35,Cliente_35,29,Salvador,2,3042.32
+36,Cliente_36,27,São Paulo,13,1634.07
+37,Cliente_37,61,Salvador,8,248.89
+38,Cliente_38,21,Belo Horizonte,4,1199.06
+39,Cliente_39,50,Salvador,9,3303.56
+40,Cliente_40,40,São Paulo,15,1816.1
+41,Cliente_41,35,Belo Horizonte,3,3646.01
+42,Cliente_42,33,Rio de Janeiro,16,1183.78
+43,Cliente_43,48,São Paulo,2,4717.25
+44,Cliente_44,47,Belo Horizonte,9,3230.72
+45,Cliente_45,26,Belo Horizonte,3,1966.42
+46,Cliente_46,31,Belo Horizonte,1,1176.25
+47,Cliente_47,64,São Paulo,15,1552.34
+48,Cliente_48,24,São Paulo,14,1030.05
+49,Cliente_49,61,Belo Horizonte,8,3148.39
+50,Cliente_50,50,Rio de Janeiro,9,867.62
+51,Cliente_51,39,Curitiba,16,3438.47
+52,Cliente_52,43,Curitiba,3,496.1
+53,Cliente_53,54,São Paulo,15,4166.5
+54,Cliente_54,32,São Paulo,18,846.94
+55,Cliente_55,43,Rio de Janeiro,4,2661.79
+56,Cliente_56,22,Belo Horizonte,4,2187.2
+57,Cliente_57,44,Curitiba,7,525.41
+58,Cliente_58,36,Curitiba,13,3359.41
+59,Cliente_59,19,São Paulo,11,345.1
+60,Cliente_60,34,Rio de Janeiro,19,3388.05
+61,Cliente_61,59,Curitiba,18,1033.5
+62,Cliente_62,63,Curitiba,7,3369.05
+63,Cliente_63,20,Belo Horizonte,1,983.87
+64,Cliente_64,39,São Paulo,10,4807.8
+65,Cliente_65,21,Salvador,4,2634.9
+66,Cliente_66,60,Belo Horizonte,18,4750.09
+67,Cliente_67,48,Curitiba,11,3371.09
+68,Cliente_68,35,Salvador,8,2133.42
+69,Cliente_69,59,São Paulo,16,3359.24
+70,Cliente_70,64,Salvador,11,736.69
+71,Cliente_71,18,São Paulo,10,3983.67
+72,Cliente_72,19,Rio de Janeiro,18,798.36
+73,Cliente_73,25,Belo Horizonte,5,3341.08
+74,Cliente_74,41,Rio de Janeiro,1,4215.42
+75,Cliente_75,26,Salvador,19,307.58
+76,Cliente_76,42,Rio de Janeiro,14,2581.67
+77,Cliente_77,60,Salvador,2,1893.93
+78,Cliente_78,52,São Paulo,13,414.54
+79,Cliente_79,30,Belo Horizonte,5,3022.37
+80,Cliente_80,63,Belo Horizonte,10,3586.25
+81,Cliente_81,21,Rio de Janeiro,9,3622.81
+82,Cliente_82,24,Rio de Janeiro,17,2939.32
+83,Cliente_83,37,Salvador,16,2885.29
+84,Cliente_84,35,Belo Horizonte,3,2285.78
+85,Cliente_85,29,Rio de Janeiro,7,2696.54
+86,Cliente_86,43,Belo Horizonte,18,1430.75
+87,Cliente_87,40,São Paulo,6,4439.62
+88,Cliente_88,45,Belo Horizonte,9,2495.73
+89,Cliente_89,38,Belo Horizonte,13,1943.65
+90,Cliente_90,54,Curitiba,1,4704.51
+91,Cliente_91,22,Belo Horizonte,2,1359.75
+92,Cliente_92,24,Salvador,14,4887.0
+93,Cliente_93,54,São Paulo,11,1527.46
+94,Cliente_94,24,Belo Horizonte,3,479.97
+95,Cliente_95,35,Rio de Janeiro,19,3011.09
+96,Cliente_96,31,São Paulo,20,3833.18
+97,Cliente_97,34,Curitiba,16,159.35
+98,Cliente_98,51,Salvador,17,3271.21
+99,Cliente_99,33,Salvador,7,4265.42
+100,Cliente_100,54,Belo Horizonte,12,2431.4
+101,Cliente_101,54,Rio de Janeiro,18,4426.67
+102,Cliente_102,34,Rio de Janeiro,13,2813.2
+103,Cliente_103,52,São Paulo,20,4816.01
+104,Cliente_104,32,Rio de Janeiro,17,4659.05
+105,Cliente_105,51,Curitiba,3,2007.69
+106,Cliente_106,31,Belo Horizonte,9,131.0
+107,Cliente_107,23,Belo Horizonte,10,4092.62
+108,Cliente_108,29,Belo Horizonte,17,3932.12
+109,Cliente_109,51,São Paulo,12,385.87
+110,Cliente_110,19,Belo Horizonte,4,4781.22
+111,Cliente_111,55,Belo Horizonte,15,1783.96
+112,Cliente_112,30,Curitiba,13,3911.05
+113,Cliente_113,59,Rio de Janeiro,13,3998.5
+114,Cliente_114,58,São Paulo,5,4901.98
+115,Cliente_115,25,São Paulo,11,2325.22
+116,Cliente_116,53,Curitiba,13,3044.37
+117,Cliente_117,31,Belo Horizonte,5,1915.76
+118,Cliente_118,57,São Paulo,20,629.51
+119,Cliente_119,54,Belo Horizonte,12,2986.78
+120,Cliente_120,35,Rio de Janeiro,16,3056.39
+121,Cliente_121,27,Curitiba,9,3483.97
+122,Cliente_122,24,São Paulo,4,1741.09
+123,Cliente_123,61,Belo Horizonte,13,264.77
+124,Cliente_124,29,Curitiba,14,4300.07
+125,Cliente_125,62,Curitiba,8,2385.68
+126,Cliente_126,40,São Paulo,17,2321.0
+127,Cliente_127,65,Rio de Janeiro,11,1238.02
+128,Cliente_128,50,Salvador,16,2156.65
+129,Cliente_129,36,Curitiba,15,3535.44
+130,Cliente_130,21,São Paulo,17,625.98
+131,Cliente_131,26,Rio de Janeiro,2,1580.54
+132,Cliente_132,27,Rio de Janeiro,9,1821.76
+133,Cliente_133,59,Belo Horizonte,20,2231.86
+134,Cliente_134,35,Belo Horizonte,6,1281.33
+135,Cliente_135,63,São Paulo,9,1088.06
+136,Cliente_136,22,Rio de Janeiro,19,764.42
+137,Cliente_137,20,São Paulo,12,2691.52
+138,Cliente_138,41,Curitiba,17,2112.67
+139,Cliente_139,59,Curitiba,1,4472.49
+140,Cliente_140,28,Curitiba,1,4195.01
+141,Cliente_141,45,Rio de Janeiro,2,461.64
+142,Cliente_142,57,Rio de Janeiro,2,2116.56
+143,Cliente_143,50,Curitiba,19,3089.98
+144,Cliente_144,40,Belo Horizonte,16,2124.77
+145,Cliente_145,50,São Paulo,4,2716.54
+146,Cliente_146,47,Belo Horizonte,18,4353.83
+147,Cliente_147,24,São Paulo,16,2427.59
+148,Cliente_148,27,Rio de Janeiro,18,378.78
+149,Cliente_149,34,Belo Horizonte,13,665.84
+150,Cliente_150,49,Salvador,8,1026.0
+151,Cliente_151,22,São Paulo,8,4643.45
+152,Cliente_152,58,Belo Horizonte,4,4117.37
+153,Cliente_153,39,Rio de Janeiro,8,130.66
+154,Cliente_154,42,Rio de Janeiro,15,1398.88
+155,Cliente_155,33,Belo Horizonte,20,762.66
+156,Cliente_156,55,Curitiba,11,3989.68
+157,Cliente_157,19,Rio de Janeiro,14,1103.51
+158,Cliente_158,19,Curitiba,11,3606.26
+159,Cliente_159,19,São Paulo,11,1415.26
+160,Cliente_160,35,Rio de Janeiro,15,4567.58
+161,Cliente_161,60,Rio de Janeiro,4,2778.8
+162,Cliente_162,49,Salvador,15,3323.29
+163,Cliente_163,65,Curitiba,12,1742.43
+164,Cliente_164,36,Rio de Janeiro,20,3845.27
+165,Cliente_165,55,Belo Horizonte,20,3248.52
+166,Cliente_166,65,Curitiba,16,3060.36
+167,Cliente_167,61,Salvador,9,3301.7
+168,Cliente_168,39,Curitiba,5,2974.16
+169,Cliente_169,26,Rio de Janeiro,4,1197.55
+170,Cliente_170,41,Belo Horizonte,5,263.15
+171,Cliente_171,48,Belo Horizonte,16,1227.51
+172,Cliente_172,41,Curitiba,14,1932.06
+173,Cliente_173,33,Rio de Janeiro,14,1188.33
+174,Cliente_174,28,Belo Horizonte,3,3059.16
+175,Cliente_175,37,Belo Horizonte,16,1678.33
+176,Cliente_176,63,São Paulo,19,1550.78
+177,Cliente_177,55,Salvador,18,4110.88
+178,Cliente_178,40,Curitiba,18,4959.64
+179,Cliente_179,55,Rio de Janeiro,16,2496.63
+180,Cliente_180,57,Belo Horizonte,14,825.13
+181,Cliente_181,25,Salvador,15,1572.39
+182,Cliente_182,65,Curitiba,5,2869.29
+183,Cliente_183,52,São Paulo,6,4948.91
+184,Cliente_184,46,Salvador,19,2566.43
+185,Cliente_185,27,Curitiba,4,3237.44
+186,Cliente_186,41,Salvador,12,2026.05
+187,Cliente_187,55,Rio de Janeiro,2,1693.31
+188,Cliente_188,43,Salvador,4,2195.99
+189,Cliente_189,65,Salvador,12,1917.01
+190,Cliente_190,43,Salvador,9,952.49
+191,Cliente_191,42,Curitiba,20,1569.22
+192,Cliente_192,53,Curitiba,20,3720.62
+193,Cliente_193,26,Belo Horizonte,4,745.61
+194,Cliente_194,62,Rio de Janeiro,17,3730.46
+195,Cliente_195,22,São Paulo,9,550.97
+196,Cliente_196,33,São Paulo,12,478.49
+197,Cliente_197,35,São Paulo,17,2123.32
+198,Cliente_198,48,Rio de Janeiro,14,2477.05
+199,Cliente_199,55,Salvador,12,1565.74
+200,Cliente_200,24,Curitiba,11,4071.73
+201,Cliente_201,52,Curitiba,12,133.66
+202,Cliente_202,20,Salvador,10,4410.16
+203,Cliente_203,26,Belo Horizonte,13,1510.1
+204,Cliente_204,20,Curitiba,4,2649.13
+205,Cliente_205,21,São Paulo,5,2764.75
+206,Cliente_206,56,Rio de Janeiro,2,4841.37
+207,Cliente_207,56,Salvador,18,818.24
+208,Cliente_208,62,Belo Horizonte,16,4741.49
+209,Cliente_209,55,São Paulo,17,2649.88
+210,Cliente_210,56,Salvador,14,212.72
+211,Cliente_211,34,São Paulo,11,4004.66
+212,Cliente_212,41,São Paulo,2,4413.74
+213,Cliente_213,20,São Paulo,8,531.03
+214,Cliente_214,64,Salvador,10,3263.88
+215,Cliente_215,36,Belo Horizonte,18,3313.06
+216,Cliente_216,59,Curitiba,3,2853.25
+217,Cliente_217,28,Curitiba,19,3178.76
+218,Cliente_218,36,Belo Horizonte,1,4568.63
+219,Cliente_219,41,Belo Horizonte,13,2230.8
+220,Cliente_220,50,Curitiba,19,807.89
+221,Cliente_221,42,Rio de Janeiro,17,3626.59
+222,Cliente_222,25,São Paulo,19,3551.09
+223,Cliente_223,51,Belo Horizonte,19,2675.53
+224,Cliente_224,42,São Paulo,20,4072.21
+225,Cliente_225,29,Rio de Janeiro,20,736.71
+226,Cliente_226,62,Curitiba,6,4170.83
+227,Cliente_227,51,Rio de Janeiro,7,812.09
+228,Cliente_228,50,Belo Horizonte,2,4947.46
+229,Cliente_229,53,Salvador,20,256.81
+230,Cliente_230,59,São Paulo,17,4672.19
+231,Cliente_231,42,Belo Horizonte,14,1841.03
+232,Cliente_232,62,Curitiba,2,4970.93
+233,Cliente_233,25,Curitiba,17,3267.33
+234,Cliente_234,63,Belo Horizonte,5,4412.71
+235,Cliente_235,62,São Paulo,19,3504.59
+236,Cliente_236,58,Belo Horizonte,11,4591.76
+237,Cliente_237,35,Belo Horizonte,10,3834.46
+238,Cliente_238,38,Rio de Janeiro,17,2282.62
+239,Cliente_239,37,São Paulo,15,4473.09
+240,Cliente_240,41,Belo Horizonte,6,167.9
+241,Cliente_241,25,Belo Horizonte,16,2597.08
+242,Cliente_242,57,Salvador,4,1353.45
+243,Cliente_243,58,Salvador,16,3819.86
+244,Cliente_244,65,Salvador,9,2363.41
+245,Cliente_245,65,Salvador,2,2221.65
+246,Cliente_246,42,Curitiba,11,2902.76
+247,Cliente_247,27,Salvador,5,1674.68
+248,Cliente_248,41,Rio de Janeiro,3,603.5
+249,Cliente_249,44,Belo Horizonte,6,1922.12
+250,Cliente_250,46,Rio de Janeiro,15,1859.76
+251,Cliente_251,63,Rio de Janeiro,11,1141.85
+252,Cliente_252,48,Salvador,16,3405.63
+253,Cliente_253,46,Rio de Janeiro,7,3559.03
+254,Cliente_254,50,Rio de Janeiro,7,374.57
+255,Cliente_255,22,Curitiba,1,3595.82
+256,Cliente_256,34,Curitiba,18,4308.15
+257,Cliente_257,52,São Paulo,8,2378.4
+258,Cliente_258,65,Rio de Janeiro,2,4448.49
+259,Cliente_259,54,Salvador,11,626.25
+260,Cliente_260,40,Belo Horizonte,7,852.12
+261,Cliente_261,47,São Paulo,10,3931.52
+262,Cliente_262,46,São Paulo,6,2694.93
+263,Cliente_263,18,Belo Horizonte,4,4103.74
+264,Cliente_264,50,Curitiba,9,1069.04
+265,Cliente_265,47,Curitiba,15,545.95
+266,Cliente_266,49,São Paulo,18,1392.47
+267,Cliente_267,54,São Paulo,19,760.97
+268,Cliente_268,60,Curitiba,4,794.29
+269,Cliente_269,26,São Paulo,16,451.32
+270,Cliente_270,51,Salvador,19,1839.74
+271,Cliente_271,47,Rio de Janeiro,20,713.83
+272,Cliente_272,28,Rio de Janeiro,3,2468.3
+273,Cliente_273,30,Curitiba,13,1946.58
+274,Cliente_274,59,Curitiba,11,395.96
+275,Cliente_275,65,Belo Horizonte,19,908.31
+276,Cliente_276,53,Curitiba,10,1186.41
+277,Cliente_277,41,São Paulo,8,2122.87
+278,Cliente_278,48,Belo Horizonte,9,3035.69
+279,Cliente_279,26,Curitiba,14,3263.86
+280,Cliente_280,26,São Paulo,16,1840.95
+281,Cliente_281,41,Salvador,19,2164.23
+282,Cliente_282,36,Salvador,12,3990.89
+283,Cliente_283,19,Belo Horizonte,19,3224.05
+284,Cliente_284,19,Curitiba,10,965.81
+285,Cliente_285,63,Rio de Janeiro,15,4739.36
+286,Cliente_286,31,São Paulo,1,519.38
+287,Cliente_287,27,Curitiba,5,4695.19
+288,Cliente_288,24,Curitiba,16,4047.71
+289,Cliente_289,22,Salvador,1,920.03
+290,Cliente_290,56,Salvador,6,473.36
+291,Cliente_291,27,Belo Horizonte,20,2768.02
+292,Cliente_292,21,São Paulo,14,1762.61
+293,Cliente_293,63,São Paulo,18,3880.47
+294,Cliente_294,59,Curitiba,5,803.59
+295,Cliente_295,26,São Paulo,4,2433.68
+296,Cliente_296,53,Salvador,10,414.69
+297,Cliente_297,53,Rio de Janeiro,18,1560.02
+298,Cliente_298,57,São Paulo,17,4843.04
+299,Cliente_299,23,Salvador,1,411.05
+300,Cliente_300,31,Belo Horizonte,15,105.46
+301,Cliente_301,64,Belo Horizonte,3,894.78
+302,Cliente_302,51,Curitiba,11,2211.72
+303,Cliente_303,38,Belo Horizonte,7,3754.91
+304,Cliente_304,22,Belo Horizonte,8,1690.51
+305,Cliente_305,28,Rio de Janeiro,3,2947.31
+306,Cliente_306,53,Rio de Janeiro,16,3572.99
+307,Cliente_307,45,Rio de Janeiro,7,3345.66
+308,Cliente_308,50,Salvador,15,3093.4
+309,Cliente_309,31,Curitiba,7,3398.36
+310,Cliente_310,61,Salvador,11,1510.7
+311,Cliente_311,51,Belo Horizonte,13,1228.36
+312,Cliente_312,42,Curitiba,5,4144.43
+313,Cliente_313,55,São Paulo,6,4173.27
+314,Cliente_314,55,São Paulo,15,917.54
+315,Cliente_315,40,São Paulo,9,4862.77
+316,Cliente_316,47,São Paulo,17,2681.08
+317,Cliente_317,29,Rio de Janeiro,11,781.22
+318,Cliente_318,33,São Paulo,19,4025.22
+319,Cliente_319,26,Curitiba,19,3252.17
+320,Cliente_320,52,Salvador,19,1148.59
+321,Cliente_321,47,Rio de Janeiro,6,1275.48
+322,Cliente_322,44,São Paulo,4,3485.55
+323,Cliente_323,50,Rio de Janeiro,3,4388.24
+324,Cliente_324,41,Curitiba,14,1667.24
+325,Cliente_325,54,Curitiba,6,1679.14
+326,Cliente_326,49,Belo Horizonte,17,3075.2
+327,Cliente_327,38,São Paulo,5,4380.49
+328,Cliente_328,21,Belo Horizonte,9,4375.87
+329,Cliente_329,61,Rio de Janeiro,20,4431.75
+330,Cliente_330,28,Belo Horizonte,6,2184.44
+331,Cliente_331,63,São Paulo,11,1924.87
+332,Cliente_332,37,São Paulo,2,4913.6
+333,Cliente_333,35,Salvador,8,2078.03
+334,Cliente_334,43,Salvador,13,3147.78
+335,Cliente_335,39,Rio de Janeiro,10,262.34
+336,Cliente_336,53,Rio de Janeiro,18,3169.32
+337,Cliente_337,53,Curitiba,15,2167.89
+338,Cliente_338,20,Belo Horizonte,20,824.75
+339,Cliente_339,25,Belo Horizonte,13,1661.8
+340,Cliente_340,47,Belo Horizonte,19,2283.26
+341,Cliente_341,46,Curitiba,5,1503.23
+342,Cliente_342,27,Rio de Janeiro,9,506.93
+343,Cliente_343,56,Rio de Janeiro,6,179.81
+344,Cliente_344,51,Salvador,13,2586.81
+345,Cliente_345,57,Curitiba,16,755.23
+346,Cliente_346,55,Salvador,12,741.75
+347,Cliente_347,55,Rio de Janeiro,10,2539.67
+348,Cliente_348,52,Belo Horizonte,13,4292.75
+349,Cliente_349,21,Salvador,13,1571.36
+350,Cliente_350,61,Rio de Janeiro,18,1215.37
+351,Cliente_351,44,Belo Horizonte,7,292.66
+352,Cliente_352,59,São Paulo,12,2327.36
+353,Cliente_353,24,Curitiba,19,659.84
+354,Cliente_354,37,Belo Horizonte,6,2513.59
+355,Cliente_355,54,São Paulo,20,171.89
+356,Cliente_356,65,Rio de Janeiro,3,1942.33
+357,Cliente_357,27,São Paulo,7,334.55
+358,Cliente_358,43,Salvador,2,3653.56
+359,Cliente_359,35,São Paulo,2,2293.16
+360,Cliente_360,56,Belo Horizonte,11,102.78
+361,Cliente_361,62,Salvador,14,4034.48
+362,Cliente_362,29,São Paulo,19,2584.92
+363,Cliente_363,47,São Paulo,14,2606.28
+364,Cliente_364,27,Belo Horizonte,19,3052.05
+365,Cliente_365,24,São Paulo,11,2349.45
+366,Cliente_366,40,Rio de Janeiro,20,2580.22
+367,Cliente_367,43,Salvador,11,4675.98
+368,Cliente_368,41,Salvador,20,1521.21
+369,Cliente_369,42,Salvador,15,3319.15
+370,Cliente_370,42,São Paulo,8,2671.98
+371,Cliente_371,47,Salvador,7,4758.4
+372,Cliente_372,39,Curitiba,5,1410.26
+373,Cliente_373,65,Belo Horizonte,14,4431.95
+374,Cliente_374,37,Belo Horizonte,8,4245.49
+375,Cliente_375,51,São Paulo,16,1740.81
+376,Cliente_376,41,Belo Horizonte,17,3555.82
+377,Cliente_377,36,Rio de Janeiro,9,1535.05
+378,Cliente_378,20,Rio de Janeiro,20,259.2
+379,Cliente_379,52,Rio de Janeiro,16,2082.2
+380,Cliente_380,30,São Paulo,16,3210.97
+381,Cliente_381,27,São Paulo,19,3447.91
+382,Cliente_382,18,São Paulo,1,2173.17
+383,Cliente_383,31,Rio de Janeiro,13,1327.6
+384,Cliente_384,36,Rio de Janeiro,11,3581.29
+385,Cliente_385,52,Salvador,6,1440.18
+386,Cliente_386,31,Rio de Janeiro,19,1888.03
+387,Cliente_387,42,Salvador,2,1614.82
+388,Cliente_388,65,Curitiba,20,127.22
+389,Cliente_389,40,Salvador,20,2283.59
+390,Cliente_390,29,Salvador,2,1382.87
+391,Cliente_391,56,Salvador,18,1744.71
+392,Cliente_392,61,Salvador,3,4105.14
+393,Cliente_393,54,Curitiba,19,1855.37
+394,Cliente_394,25,Belo Horizonte,9,3348.24
+395,Cliente_395,41,Curitiba,9,4656.3
+396,Cliente_396,28,Belo Horizonte,8,1569.77
+397,Cliente_397,59,Rio de Janeiro,1,3170.47
+398,Cliente_398,54,Curitiba,14,1885.88
+399,Cliente_399,20,Rio de Janeiro,11,2902.25
+400,Cliente_400,54,Rio de Janeiro,11,2649.15
+401,Cliente_401,52,Rio de Janeiro,16,4532.08
+402,Cliente_402,44,São Paulo,18,1605.95
+403,Cliente_403,57,Curitiba,2,4818.02
+404,Cliente_404,63,Curitiba,15,2626.7
+405,Cliente_405,55,Salvador,18,108.01
+406,Cliente_406,23,Curitiba,2,4418.41
+407,Cliente_407,55,Salvador,5,3177.77
+408,Cliente_408,35,Rio de Janeiro,5,2969.76
+409,Cliente_409,23,Curitiba,10,4178.06
+410,Cliente_410,30,Salvador,7,2156.32
+411,Cliente_411,19,Salvador,19,183.96
+412,Cliente_412,45,São Paulo,18,3259.17
+413,Cliente_413,63,Salvador,16,3305.36
+414,Cliente_414,22,Belo Horizonte,14,2518.37
+415,Cliente_415,20,Salvador,4,1262.47
+416,Cliente_416,28,Curitiba,6,2196.97
+417,Cliente_417,32,Curitiba,20,1764.07
+418,Cliente_418,26,Salvador,13,686.88
+419,Cliente_419,22,Rio de Janeiro,17,4662.29
+420,Cliente_420,60,Curitiba,3,3097.08
+421,Cliente_421,28,Rio de Janeiro,12,4426.52
+422,Cliente_422,45,Rio de Janeiro,16,2548.54
+423,Cliente_423,29,São Paulo,8,2705.58
+424,Cliente_424,58,São Paulo,9,2483.91
+425,Cliente_425,37,São Paulo,4,1603.74
+426,Cliente_426,54,Salvador,12,2072.76
+427,Cliente_427,24,Rio de Janeiro,6,3761.1
+428,Cliente_428,49,Curitiba,13,2914.86
+429,Cliente_429,29,Curitiba,4,472.26
+430,Cliente_430,30,Belo Horizonte,4,576.79
+431,Cliente_431,64,Curitiba,16,3862.52
+432,Cliente_432,51,Belo Horizonte,8,4391.99
+433,Cliente_433,21,Curitiba,11,3580.6
+434,Cliente_434,47,Rio de Janeiro,15,1760.03
+435,Cliente_435,57,São Paulo,10,2234.45
+436,Cliente_436,32,Curitiba,20,1520.56
+437,Cliente_437,38,Rio de Janeiro,7,3545.8
+438,Cliente_438,34,Rio de Janeiro,4,4972.61
+439,Cliente_439,20,Rio de Janeiro,19,358.96
+440,Cliente_440,60,Curitiba,14,2966.43
+441,Cliente_441,21,Salvador,10,1627.09
+442,Cliente_442,21,Curitiba,20,3231.08
+443,Cliente_443,45,Curitiba,11,1464.97
+444,Cliente_444,36,Curitiba,19,4176.83
+445,Cliente_445,40,Rio de Janeiro,7,1387.48
+446,Cliente_446,47,Rio de Janeiro,15,964.07
+447,Cliente_447,32,Salvador,6,248.94
+448,Cliente_448,55,Salvador,12,3282.77
+449,Cliente_449,25,Rio de Janeiro,13,3674.73
+450,Cliente_450,31,Curitiba,9,2193.78
+451,Cliente_451,51,Rio de Janeiro,6,1204.58
+452,Cliente_452,20,Salvador,20,1069.36
+453,Cliente_453,42,São Paulo,9,3185.97
+454,Cliente_454,26,Curitiba,18,2959.62
+455,Cliente_455,27,Rio de Janeiro,6,4905.37
+456,Cliente_456,54,Curitiba,2,1132.36
+457,Cliente_457,40,Rio de Janeiro,4,1461.07
+458,Cliente_458,51,Rio de Janeiro,7,1176.44
+459,Cliente_459,62,Rio de Janeiro,8,1823.46
+460,Cliente_460,42,Rio de Janeiro,19,3192.93
+461,Cliente_461,21,Belo Horizonte,7,3002.86
+462,Cliente_462,47,Rio de Janeiro,12,4480.62
+463,Cliente_463,38,Salvador,13,1968.52
+464,Cliente_464,62,Salvador,6,2474.06
+465,Cliente_465,45,Rio de Janeiro,9,2869.91
+466,Cliente_466,56,Salvador,5,173.61
+467,Cliente_467,23,Curitiba,6,3241.61
+468,Cliente_468,31,Curitiba,2,3989.93
+469,Cliente_469,55,Rio de Janeiro,13,1056.5
+470,Cliente_470,63,São Paulo,13,2566.13
+471,Cliente_471,56,Belo Horizonte,1,4859.61
+472,Cliente_472,58,São Paulo,4,4152.33
+473,Cliente_473,37,Rio de Janeiro,20,4188.48
+474,Cliente_474,42,Salvador,14,2336.15
+475,Cliente_475,32,Rio de Janeiro,17,3917.32
+476,Cliente_476,42,Belo Horizonte,19,4938.65
+477,Cliente_477,20,Rio de Janeiro,10,2348.89
+478,Cliente_478,20,Curitiba,3,4129.06
+479,Cliente_479,30,Salvador,18,307.74
+480,Cliente_480,26,Salvador,14,1703.72
+481,Cliente_481,43,Curitiba,13,2086.19
+482,Cliente_482,18,Belo Horizonte,19,471.1
+483,Cliente_483,65,São Paulo,15,1897.66
+484,Cliente_484,20,Belo Horizonte,13,2089.49
+485,Cliente_485,54,Belo Horizonte,13,3443.52
+486,Cliente_486,38,Rio de Janeiro,11,4915.11
+487,Cliente_487,60,Curitiba,13,4490.2
+488,Cliente_488,41,Belo Horizonte,15,207.62
+489,Cliente_489,31,Rio de Janeiro,7,4004.98
+490,Cliente_490,38,São Paulo,5,3795.79
+491,Cliente_491,19,Rio de Janeiro,16,1588.17
+492,Cliente_492,42,São Paulo,1,4365.42
+493,Cliente_493,26,São Paulo,4,362.03
+494,Cliente_494,61,São Paulo,19,546.85
+495,Cliente_495,62,Salvador,19,3022.21
+496,Cliente_496,41,Rio de Janeiro,18,4227.81
+497,Cliente_497,48,Belo Horizonte,9,2810.27
+498,Cliente_498,46,Belo Horizonte,2,2496.71
+499,Cliente_499,22,Curitiba,5,1231.35
+500,Cliente_500,31,Rio de Janeiro,9,2582.8
+501,Cliente_501,27,Belo Horizonte,5,4826.38
+502,Cliente_502,42,Curitiba,4,3304.52
+503,Cliente_503,59,Rio de Janeiro,9,3440.88
+504,Cliente_504,57,Belo Horizonte,17,2895.59
+505,Cliente_505,43,Rio de Janeiro,4,2967.81
+506,Cliente_506,41,Belo Horizonte,14,696.87
+507,Cliente_507,33,São Paulo,12,4687.57
+508,Cliente_508,20,Belo Horizonte,1,4128.28
+509,Cliente_509,26,Belo Horizonte,9,2293.31
+510,Cliente_510,59,São Paulo,13,2043.04
+511,Cliente_511,18,São Paulo,18,3162.53
+512,Cliente_512,24,Belo Horizonte,4,1194.91
+513,Cliente_513,24,Salvador,2,1295.68
+514,Cliente_514,60,Curitiba,8,2484.9
+515,Cliente_515,40,Curitiba,3,2701.99
+516,Cliente_516,40,Curitiba,19,2719.16
+517,Cliente_517,23,Curitiba,9,4711.89
+518,Cliente_518,51,São Paulo,20,565.66
+519,Cliente_519,26,São Paulo,11,4798.85
+520,Cliente_520,31,Salvador,16,1739.31
+521,Cliente_521,39,Belo Horizonte,11,1797.46
+522,Cliente_522,25,Belo Horizonte,7,4635.53
+523,Cliente_523,50,Belo Horizonte,16,2101.5
+524,Cliente_524,49,Rio de Janeiro,18,3976.77
+525,Cliente_525,46,Curitiba,7,4131.76
+526,Cliente_526,32,Curitiba,18,1966.75
+527,Cliente_527,53,São Paulo,4,1236.39
+528,Cliente_528,43,Belo Horizonte,8,4442.54
+529,Cliente_529,40,São Paulo,4,1995.04
+530,Cliente_530,27,Curitiba,2,4770.74
+531,Cliente_531,48,Belo Horizonte,3,1971.24
+532,Cliente_532,54,São Paulo,2,4371.92
+533,Cliente_533,35,Belo Horizonte,14,311.72
+534,Cliente_534,32,São Paulo,5,4922.8
+535,Cliente_535,50,São Paulo,1,3180.3
+536,Cliente_536,48,Belo Horizonte,19,1510.06
+537,Cliente_537,19,Belo Horizonte,6,3225.39
+538,Cliente_538,62,Belo Horizonte,8,4047.76
+539,Cliente_539,19,Salvador,20,3917.55
+540,Cliente_540,25,Rio de Janeiro,2,3394.0
+541,Cliente_541,35,Belo Horizonte,20,4468.62
+542,Cliente_542,55,São Paulo,15,3898.5
+543,Cliente_543,57,Salvador,16,4731.62
+544,Cliente_544,34,São Paulo,14,2191.62
+545,Cliente_545,61,Curitiba,16,1128.59
+546,Cliente_546,50,Rio de Janeiro,10,3037.81
+547,Cliente_547,44,Rio de Janeiro,3,4581.83
+548,Cliente_548,38,Salvador,14,4251.98
+549,Cliente_549,25,São Paulo,16,1427.11
+550,Cliente_550,41,Curitiba,13,3505.9
+551,Cliente_551,38,Salvador,11,2417.0
+552,Cliente_552,31,Rio de Janeiro,15,1698.55
+553,Cliente_553,25,Curitiba,14,2463.74
+554,Cliente_554,36,Salvador,14,4382.53
+555,Cliente_555,26,Salvador,5,2748.39
+556,Cliente_556,64,Curitiba,6,698.13
+557,Cliente_557,63,Belo Horizonte,10,3048.14
+558,Cliente_558,34,Belo Horizonte,11,4218.0
+559,Cliente_559,19,São Paulo,20,718.37
+560,Cliente_560,29,Salvador,17,2388.44
+561,Cliente_561,52,Salvador,14,3688.59
+562,Cliente_562,20,Salvador,14,912.53
+563,Cliente_563,54,São Paulo,15,744.72
+564,Cliente_564,35,Salvador,2,3639.74
+565,Cliente_565,28,São Paulo,2,199.96
+566,Cliente_566,45,São Paulo,17,2702.65
+567,Cliente_567,34,Salvador,6,4417.94
+568,Cliente_568,62,Belo Horizonte,17,2184.91
+569,Cliente_569,59,Belo Horizonte,18,2618.31
+570,Cliente_570,21,Rio de Janeiro,1,3004.38
+571,Cliente_571,49,Curitiba,6,1187.91
+572,Cliente_572,21,São Paulo,19,1617.1
+573,Cliente_573,40,Curitiba,12,1790.37
+574,Cliente_574,65,Belo Horizonte,15,1049.48
+575,Cliente_575,18,Curitiba,14,4768.9
+576,Cliente_576,48,Salvador,18,2795.94
+577,Cliente_577,47,Rio de Janeiro,10,4575.03
+578,Cliente_578,38,Curitiba,17,2718.61
+579,Cliente_579,58,Curitiba,7,4281.48
+580,Cliente_580,39,São Paulo,7,1980.59
+581,Cliente_581,33,Salvador,11,3845.58
+582,Cliente_582,25,Belo Horizonte,12,2461.5
+583,Cliente_583,28,Rio de Janeiro,19,3761.84
+584,Cliente_584,59,São Paulo,7,3822.38
+585,Cliente_585,55,São Paulo,10,3146.97
+586,Cliente_586,50,Salvador,7,1770.51
+587,Cliente_587,46,Rio de Janeiro,15,420.76
+588,Cliente_588,64,Curitiba,6,392.45
+589,Cliente_589,44,Curitiba,14,3989.32
+590,Cliente_590,26,São Paulo,13,1168.62
+591,Cliente_591,63,Curitiba,7,490.08
+592,Cliente_592,50,São Paulo,16,1184.26
+593,Cliente_593,61,São Paulo,2,3446.64
+594,Cliente_594,27,Belo Horizonte,6,2393.23
+595,Cliente_595,39,Curitiba,18,2017.51
+596,Cliente_596,32,Rio de Janeiro,11,3033.27
+597,Cliente_597,47,Belo Horizonte,16,1026.41
+598,Cliente_598,54,Curitiba,3,4562.43
+599,Cliente_599,43,São Paulo,20,2314.41
+600,Cliente_600,53,Belo Horizonte,11,3253.84
+601,Cliente_601,32,Curitiba,3,214.7
+602,Cliente_602,57,São Paulo,20,2146.18
+603,Cliente_603,56,Salvador,12,4830.82
+604,Cliente_604,26,Rio de Janeiro,10,443.25
+605,Cliente_605,54,Curitiba,11,121.3
+606,Cliente_606,44,São Paulo,18,1258.24
+607,Cliente_607,56,São Paulo,13,3097.88
+608,Cliente_608,21,Curitiba,1,2764.57
+609,Cliente_609,53,Belo Horizonte,3,1208.51
+610,Cliente_610,24,São Paulo,17,1286.25
+611,Cliente_611,52,Salvador,10,2996.52
+612,Cliente_612,46,Belo Horizonte,7,4100.61
+613,Cliente_613,58,Salvador,20,4327.53
+614,Cliente_614,59,Salvador,2,4824.86
+615,Cliente_615,19,Salvador,4,536.37
+616,Cliente_616,55,Rio de Janeiro,8,348.75
+617,Cliente_617,41,Salvador,13,3430.09
+618,Cliente_618,61,Curitiba,19,747.04
+619,Cliente_619,45,Rio de Janeiro,11,2629.13
+620,Cliente_620,64,São Paulo,16,3256.83
+621,Cliente_621,64,Rio de Janeiro,11,3822.97
+622,Cliente_622,18,Curitiba,20,4954.75
+623,Cliente_623,27,Curitiba,19,228.08
+624,Cliente_624,38,Salvador,18,2850.89
+625,Cliente_625,49,Curitiba,4,928.24
+626,Cliente_626,37,Rio de Janeiro,8,3647.89
+627,Cliente_627,24,São Paulo,6,3422.27
+628,Cliente_628,28,Belo Horizonte,3,1140.88
+629,Cliente_629,59,São Paulo,11,4140.55
+630,Cliente_630,18,Belo Horizonte,18,2337.01
+631,Cliente_631,19,Curitiba,16,1714.93
+632,Cliente_632,46,Rio de Janeiro,18,4598.31
+633,Cliente_633,44,Belo Horizonte,2,2555.08
+634,Cliente_634,41,Rio de Janeiro,6,557.03
+635,Cliente_635,48,Rio de Janeiro,6,1888.28
+636,Cliente_636,45,São Paulo,13,4211.27
+637,Cliente_637,37,Belo Horizonte,11,2292.12
+638,Cliente_638,58,São Paulo,19,2928.85
+639,Cliente_639,65,Rio de Janeiro,14,1557.96
+640,Cliente_640,57,Salvador,18,1080.46
+641,Cliente_641,27,São Paulo,4,1180.64
+642,Cliente_642,19,Curitiba,18,4117.07
+643,Cliente_643,27,Rio de Janeiro,9,3587.51
+644,Cliente_644,36,São Paulo,20,3650.19
+645,Cliente_645,28,Curitiba,19,2711.13
+646,Cliente_646,64,Belo Horizonte,20,931.52
+647,Cliente_647,47,São Paulo,6,3218.35
+648,Cliente_648,53,Salvador,18,2547.43
+649,Cliente_649,19,Rio de Janeiro,4,3883.24
+650,Cliente_650,57,São Paulo,12,2567.07
+651,Cliente_651,55,Rio de Janeiro,16,1191.49
+652,Cliente_652,57,Belo Horizonte,5,1409.65
+653,Cliente_653,34,Belo Horizonte,2,977.2
+654,Cliente_654,61,Rio de Janeiro,12,2898.25
+655,Cliente_655,44,São Paulo,18,3925.12
+656,Cliente_656,39,Salvador,2,4045.68
+657,Cliente_657,40,Salvador,18,3864.8
+658,Cliente_658,40,Rio de Janeiro,12,4094.57
+659,Cliente_659,59,São Paulo,4,3998.18
+660,Cliente_660,62,Rio de Janeiro,13,2546.03
+661,Cliente_661,59,São Paulo,4,3317.01
+662,Cliente_662,48,Belo Horizonte,8,2465.18
+663,Cliente_663,45,Belo Horizonte,5,2828.87
+664,Cliente_664,49,São Paulo,15,2970.85
+665,Cliente_665,52,Curitiba,6,4495.03
+666,Cliente_666,56,Salvador,7,1440.99
+667,Cliente_667,18,Salvador,7,3133.83
+668,Cliente_668,46,Curitiba,17,2853.83
+669,Cliente_669,23,Belo Horizonte,4,3840.39
+670,Cliente_670,65,Rio de Janeiro,9,1287.84
+671,Cliente_671,56,São Paulo,4,4250.5
+672,Cliente_672,56,Curitiba,19,3298.88
+673,Cliente_673,52,São Paulo,3,1461.6
+674,Cliente_674,26,Curitiba,17,392.99
+675,Cliente_675,20,Belo Horizonte,16,4415.01
+676,Cliente_676,18,Belo Horizonte,8,1203.3
+677,Cliente_677,50,Belo Horizonte,17,4393.04
+678,Cliente_678,18,Curitiba,11,2224.4
+679,Cliente_679,63,Belo Horizonte,4,2762.99
+680,Cliente_680,52,Belo Horizonte,12,679.84
+681,Cliente_681,37,Rio de Janeiro,12,788.3
+682,Cliente_682,33,Belo Horizonte,17,2764.06
+683,Cliente_683,47,Belo Horizonte,12,2994.76
+684,Cliente_684,64,Rio de Janeiro,13,1454.52
+685,Cliente_685,56,Rio de Janeiro,2,1460.5
+686,Cliente_686,27,São Paulo,16,1920.32
+687,Cliente_687,54,São Paulo,19,3360.51
+688,Cliente_688,52,Salvador,9,2895.03
+689,Cliente_689,26,São Paulo,5,3710.18
+690,Cliente_690,56,Curitiba,16,3377.74
+691,Cliente_691,28,Belo Horizonte,16,3652.54
+692,Cliente_692,47,Salvador,4,3042.81
+693,Cliente_693,47,São Paulo,5,3662.19
+694,Cliente_694,18,Salvador,16,4956.48
+695,Cliente_695,62,Rio de Janeiro,20,2547.83
+696,Cliente_696,60,Salvador,7,1705.56
+697,Cliente_697,28,Belo Horizonte,17,3906.21
+698,Cliente_698,37,Salvador,11,4682.85
+699,Cliente_699,63,São Paulo,2,1933.53
+700,Cliente_700,29,Belo Horizonte,4,3450.69
+701,Cliente_701,48,Rio de Janeiro,15,4540.65
+702,Cliente_702,18,Salvador,18,3605.89
+703,Cliente_703,52,Rio de Janeiro,20,4958.72
+704,Cliente_704,64,Curitiba,2,2778.59
+705,Cliente_705,24,Salvador,11,2182.18
+706,Cliente_706,60,Rio de Janeiro,4,3395.99
+707,Cliente_707,46,Belo Horizonte,12,1208.54
+708,Cliente_708,29,Belo Horizonte,8,936.34
+709,Cliente_709,38,São Paulo,3,1957.16
+710,Cliente_710,33,Belo Horizonte,6,2888.03
+711,Cliente_711,40,Salvador,12,3849.89
+712,Cliente_712,44,São Paulo,3,1359.33
+713,Cliente_713,36,Salvador,2,805.34
+714,Cliente_714,21,Curitiba,16,2766.24
+715,Cliente_715,56,Curitiba,4,1765.9
+716,Cliente_716,46,Belo Horizonte,2,455.85
+717,Cliente_717,57,São Paulo,9,161.52
+718,Cliente_718,36,Salvador,1,4582.52
+719,Cliente_719,62,Curitiba,10,1325.03
+720,Cliente_720,27,Rio de Janeiro,4,3818.74
+721,Cliente_721,47,Salvador,8,1402.03
+722,Cliente_722,29,Curitiba,14,2369.7
+723,Cliente_723,36,Curitiba,17,4145.22
+724,Cliente_724,32,Salvador,9,4779.87
+725,Cliente_725,48,Belo Horizonte,15,1107.95
+726,Cliente_726,48,Salvador,7,4131.45
+727,Cliente_727,29,Salvador,3,1942.81
+728,Cliente_728,22,Rio de Janeiro,7,4343.19
+729,Cliente_729,36,São Paulo,18,2721.13
+730,Cliente_730,21,Belo Horizonte,18,873.0
+731,Cliente_731,48,São Paulo,2,4831.2
+732,Cliente_732,62,São Paulo,11,3568.74
+733,Cliente_733,50,Curitiba,12,1696.26
+734,Cliente_734,23,Belo Horizonte,10,3766.05
+735,Cliente_735,34,Curitiba,8,3312.96
+736,Cliente_736,54,Salvador,12,3915.52
+737,Cliente_737,46,Belo Horizonte,9,3019.8
+738,Cliente_738,49,Salvador,3,4058.24
+739,Cliente_739,45,Rio de Janeiro,7,2048.48
+740,Cliente_740,61,Salvador,16,3223.09
+741,Cliente_741,41,Belo Horizonte,8,3150.05
+742,Cliente_742,28,Belo Horizonte,11,4832.13
+743,Cliente_743,32,São Paulo,10,3170.42
+744,Cliente_744,18,Salvador,1,4182.25
+745,Cliente_745,39,Rio de Janeiro,14,1225.84
+746,Cliente_746,24,Curitiba,3,2802.22
+747,Cliente_747,41,São Paulo,20,4404.45
+748,Cliente_748,54,Salvador,7,1457.74
+749,Cliente_749,57,Belo Horizonte,16,2409.96
+750,Cliente_750,55,Belo Horizonte,8,4249.5
+751,Cliente_751,60,Belo Horizonte,20,3042.63
+752,Cliente_752,55,Curitiba,8,895.39
+753,Cliente_753,36,Rio de Janeiro,1,2973.52
+754,Cliente_754,46,Salvador,14,4365.68
+755,Cliente_755,38,São Paulo,14,3919.54
+756,Cliente_756,39,Rio de Janeiro,1,693.71
+757,Cliente_757,30,Belo Horizonte,10,3033.36
+758,Cliente_758,29,Rio de Janeiro,10,4309.51
+759,Cliente_759,65,Curitiba,20,360.76
+760,Cliente_760,58,Belo Horizonte,8,4330.87
+761,Cliente_761,55,São Paulo,15,3943.02
+762,Cliente_762,29,São Paulo,13,667.06
+763,Cliente_763,60,Belo Horizonte,3,4046.01
+764,Cliente_764,40,Curitiba,8,2000.85
+765,Cliente_765,47,São Paulo,17,1832.14
+766,Cliente_766,44,São Paulo,7,3513.59
+767,Cliente_767,33,Belo Horizonte,16,296.94
+768,Cliente_768,48,Curitiba,4,250.47
+769,Cliente_769,23,Rio de Janeiro,17,4750.62
+770,Cliente_770,35,Belo Horizonte,12,4994.43
+771,Cliente_771,21,Curitiba,13,371.02
+772,Cliente_772,50,Salvador,3,4871.53
+773,Cliente_773,43,Rio de Janeiro,3,385.69
+774,Cliente_774,45,Salvador,6,3218.67
+775,Cliente_775,41,Belo Horizonte,3,2826.31
+776,Cliente_776,61,São Paulo,15,2360.09
+777,Cliente_777,21,São Paulo,2,1583.71
+778,Cliente_778,38,Curitiba,13,317.26
+779,Cliente_779,53,Salvador,18,3003.01
+780,Cliente_780,35,São Paulo,11,1781.25
+781,Cliente_781,59,Rio de Janeiro,14,2215.73
+782,Cliente_782,46,Rio de Janeiro,10,3799.61
+783,Cliente_783,59,Rio de Janeiro,20,3190.36
+784,Cliente_784,24,Salvador,3,4125.77
+785,Cliente_785,60,Rio de Janeiro,17,1699.77
+786,Cliente_786,58,Belo Horizonte,1,1665.78
+787,Cliente_787,65,Salvador,19,2026.35
+788,Cliente_788,50,Rio de Janeiro,11,619.43
+789,Cliente_789,49,Rio de Janeiro,13,454.71
+790,Cliente_790,54,São Paulo,1,588.24
+791,Cliente_791,20,Salvador,9,3238.57
+792,Cliente_792,32,Belo Horizonte,16,497.98
+793,Cliente_793,52,Belo Horizonte,16,1294.05
+794,Cliente_794,59,São Paulo,15,1025.94
+795,Cliente_795,49,Belo Horizonte,7,4957.97
+796,Cliente_796,56,Belo Horizonte,19,3216.12
+797,Cliente_797,40,Salvador,6,146.73
+798,Cliente_798,31,Belo Horizonte,11,3463.36
+799,Cliente_799,47,São Paulo,12,427.62
+800,Cliente_800,61,São Paulo,20,2062.79
+801,Cliente_801,49,Belo Horizonte,9,501.98
+802,Cliente_802,18,Curitiba,15,1866.2
+803,Cliente_803,31,Belo Horizonte,20,4938.23
+804,Cliente_804,62,São Paulo,4,1573.85
+805,Cliente_805,22,Belo Horizonte,12,4712.62
+806,Cliente_806,26,Salvador,6,2341.53
+807,Cliente_807,64,Rio de Janeiro,17,3852.65
+808,Cliente_808,57,Salvador,6,2930.9
+809,Cliente_809,24,Curitiba,19,579.96
+810,Cliente_810,46,Belo Horizonte,2,660.54
+811,Cliente_811,55,Salvador,13,3374.93
+812,Cliente_812,29,Belo Horizonte,9,423.56
+813,Cliente_813,61,Salvador,9,621.89
+814,Cliente_814,20,Rio de Janeiro,12,4718.17
+815,Cliente_815,53,Salvador,11,283.73
+816,Cliente_816,35,Salvador,5,1369.41
+817,Cliente_817,28,Curitiba,1,4850.54
+818,Cliente_818,35,Belo Horizonte,3,2017.38
+819,Cliente_819,45,Curitiba,3,928.69
+820,Cliente_820,21,Curitiba,19,3537.03
+821,Cliente_821,44,Rio de Janeiro,8,1113.84
+822,Cliente_822,39,Belo Horizonte,5,599.87
+823,Cliente_823,63,Curitiba,17,3980.27
+824,Cliente_824,55,Belo Horizonte,15,3741.49
+825,Cliente_825,41,Belo Horizonte,8,124.5
+826,Cliente_826,61,Belo Horizonte,8,745.75
+827,Cliente_827,49,Salvador,14,181.9
+828,Cliente_828,39,Curitiba,17,3419.17
+829,Cliente_829,23,Belo Horizonte,5,4664.83
+830,Cliente_830,49,São Paulo,7,3793.01
+831,Cliente_831,52,São Paulo,7,4062.66
+832,Cliente_832,38,Belo Horizonte,14,2224.85
+833,Cliente_833,41,Salvador,19,1495.42
+834,Cliente_834,50,Salvador,6,2447.08
+835,Cliente_835,24,São Paulo,2,646.11
+836,Cliente_836,22,Rio de Janeiro,11,4938.23
+837,Cliente_837,28,Rio de Janeiro,10,2616.99
+838,Cliente_838,58,São Paulo,19,2079.29
+839,Cliente_839,60,Belo Horizonte,16,4066.04
+840,Cliente_840,47,Rio de Janeiro,10,679.36
+841,Cliente_841,31,Salvador,14,1261.85
+842,Cliente_842,42,Rio de Janeiro,11,1598.79
+843,Cliente_843,30,São Paulo,9,2553.96
+844,Cliente_844,37,Curitiba,4,1229.58
+845,Cliente_845,65,São Paulo,10,1407.84
+846,Cliente_846,49,Belo Horizonte,17,4804.02
+847,Cliente_847,61,São Paulo,4,3029.95
+848,Cliente_848,59,São Paulo,18,417.75
+849,Cliente_849,45,Salvador,7,3729.61
+850,Cliente_850,52,Belo Horizonte,20,3471.73
+851,Cliente_851,18,São Paulo,15,1340.59
+852,Cliente_852,26,São Paulo,2,2425.62
+853,Cliente_853,34,Belo Horizonte,5,2703.44
+854,Cliente_854,33,Rio de Janeiro,4,1008.68
+855,Cliente_855,40,Belo Horizonte,7,3613.86
+856,Cliente_856,62,Belo Horizonte,13,4384.93
+857,Cliente_857,22,Rio de Janeiro,17,2322.9
+858,Cliente_858,38,Belo Horizonte,19,3956.69
+859,Cliente_859,59,São Paulo,9,1602.13
+860,Cliente_860,29,Curitiba,8,2441.29
+861,Cliente_861,49,Curitiba,1,1230.42
+862,Cliente_862,60,Salvador,12,1541.96
+863,Cliente_863,49,São Paulo,12,2880.23
+864,Cliente_864,60,Curitiba,19,1679.1
+865,Cliente_865,32,Belo Horizonte,12,3691.16
+866,Cliente_866,48,São Paulo,14,2984.37
+867,Cliente_867,53,Curitiba,17,3387.34
+868,Cliente_868,35,Belo Horizonte,12,3193.06
+869,Cliente_869,28,Curitiba,10,4629.79
+870,Cliente_870,55,Curitiba,9,4918.7
+871,Cliente_871,63,Curitiba,1,4903.32
+872,Cliente_872,21,Salvador,12,997.7
+873,Cliente_873,48,São Paulo,14,3743.2
+874,Cliente_874,36,Rio de Janeiro,7,4534.66
+875,Cliente_875,46,Belo Horizonte,7,1070.42
+876,Cliente_876,31,São Paulo,8,4152.8
+877,Cliente_877,59,Belo Horizonte,18,2622.56
+878,Cliente_878,48,Belo Horizonte,19,1178.13
+879,Cliente_879,43,Rio de Janeiro,12,4127.56
+880,Cliente_880,62,Rio de Janeiro,8,2223.3
+881,Cliente_881,30,Rio de Janeiro,10,3919.55
+882,Cliente_882,36,Curitiba,16,1695.19
+883,Cliente_883,34,Salvador,7,4524.6
+884,Cliente_884,36,Belo Horizonte,13,4202.42
+885,Cliente_885,30,Rio de Janeiro,10,266.01
+886,Cliente_886,34,São Paulo,11,4546.41
+887,Cliente_887,22,Curitiba,4,3558.46
+888,Cliente_888,35,Rio de Janeiro,19,859.02
+889,Cliente_889,44,Curitiba,1,891.12
+890,Cliente_890,46,Belo Horizonte,16,1275.27
+891,Cliente_891,46,Salvador,15,4773.48
+892,Cliente_892,58,Curitiba,10,3432.86
+893,Cliente_893,40,São Paulo,19,4387.51
+894,Cliente_894,29,São Paulo,15,3248.98
+895,Cliente_895,54,Curitiba,18,3069.41
+896,Cliente_896,60,Rio de Janeiro,9,4491.86
+897,Cliente_897,58,São Paulo,7,694.36
+898,Cliente_898,21,Rio de Janeiro,4,1700.53
+899,Cliente_899,48,Belo Horizonte,9,3884.7
+900,Cliente_900,53,Curitiba,11,2020.87
+901,Cliente_901,26,Curitiba,14,2994.89
+902,Cliente_902,49,Rio de Janeiro,17,1933.44
+903,Cliente_903,44,São Paulo,17,2723.25
+904,Cliente_904,23,Rio de Janeiro,13,2267.1
+905,Cliente_905,57,Belo Horizonte,11,3490.83
+906,Cliente_906,23,Curitiba,7,998.43
+907,Cliente_907,57,Curitiba,12,3912.22
+908,Cliente_908,60,São Paulo,5,3602.9
+909,Cliente_909,36,Salvador,10,4782.1
+910,Cliente_910,46,Rio de Janeiro,17,3987.5
+911,Cliente_911,49,Salvador,14,326.35
+912,Cliente_912,39,Belo Horizonte,7,1180.94
+913,Cliente_913,57,Rio de Janeiro,1,1038.36
+914,Cliente_914,55,Belo Horizonte,6,244.28
+915,Cliente_915,54,Salvador,16,4811.38
+916,Cliente_916,59,Curitiba,20,1100.79
+917,Cliente_917,65,Salvador,8,2925.38
+918,Cliente_918,36,São Paulo,7,3354.86
+919,Cliente_919,64,Curitiba,8,3352.72
+920,Cliente_920,53,Curitiba,14,1952.5
+921,Cliente_921,62,Rio de Janeiro,1,2967.94
+922,Cliente_922,56,São Paulo,9,2828.06
+923,Cliente_923,39,Rio de Janeiro,17,1739.48
+924,Cliente_924,45,Belo Horizonte,15,2231.32
+925,Cliente_925,24,Salvador,15,984.7
+926,Cliente_926,34,São Paulo,11,2133.5
+927,Cliente_927,30,Salvador,10,202.82
+928,Cliente_928,56,Curitiba,12,643.61
+929,Cliente_929,63,Curitiba,9,1870.63
+930,Cliente_930,24,Curitiba,5,3992.93
+931,Cliente_931,34,Belo Horizonte,6,3278.39
+932,Cliente_932,22,São Paulo,17,3984.42
+933,Cliente_933,19,Salvador,3,1105.03
+934,Cliente_934,26,São Paulo,7,4563.69
+935,Cliente_935,48,Belo Horizonte,2,2815.28
+936,Cliente_936,25,Curitiba,5,2721.6
+937,Cliente_937,62,Belo Horizonte,10,382.88
+938,Cliente_938,41,Belo Horizonte,13,2628.12
+939,Cliente_939,47,Belo Horizonte,18,1657.62
+940,Cliente_940,19,Rio de Janeiro,1,3804.46
+941,Cliente_941,36,São Paulo,3,2041.96
+942,Cliente_942,19,Belo Horizonte,13,1835.14
+943,Cliente_943,55,Rio de Janeiro,16,421.08
+944,Cliente_944,40,Salvador,17,3875.6
+945,Cliente_945,44,Belo Horizonte,11,4229.08
+946,Cliente_946,64,São Paulo,7,254.04
+947,Cliente_947,23,Rio de Janeiro,7,4252.39
+948,Cliente_948,30,Curitiba,3,4681.06
+949,Cliente_949,27,Salvador,9,4795.97
+950,Cliente_950,22,São Paulo,14,3038.28
+951,Cliente_951,44,Curitiba,8,4844.42
+952,Cliente_952,24,Belo Horizonte,5,3953.16
+953,Cliente_953,49,Salvador,17,4430.88
+954,Cliente_954,44,Salvador,11,3410.38
+955,Cliente_955,19,São Paulo,19,3736.61
+956,Cliente_956,32,Belo Horizonte,13,3593.04
+957,Cliente_957,28,Curitiba,5,3570.52
+958,Cliente_958,54,São Paulo,2,2207.12
+959,Cliente_959,18,Belo Horizonte,17,789.66
+960,Cliente_960,55,Rio de Janeiro,4,3515.97
+961,Cliente_961,43,São Paulo,13,770.63
+962,Cliente_962,61,Rio de Janeiro,7,714.77
+963,Cliente_963,50,Rio de Janeiro,4,343.43
+964,Cliente_964,62,Rio de Janeiro,17,3778.98
+965,Cliente_965,53,Belo Horizonte,6,2203.91
+966,Cliente_966,26,Curitiba,3,4105.19
+967,Cliente_967,58,Rio de Janeiro,9,3633.09
+968,Cliente_968,52,São Paulo,5,2083.26
+969,Cliente_969,27,Belo Horizonte,7,3745.62
+970,Cliente_970,53,Belo Horizonte,6,696.9
+971,Cliente_971,35,Curitiba,9,1991.12
+972,Cliente_972,40,Salvador,14,3529.26
+973,Cliente_973,52,Salvador,10,2550.35
+974,Cliente_974,51,Rio de Janeiro,14,2723.54
+975,Cliente_975,31,Salvador,20,2927.08
+976,Cliente_976,62,Belo Horizonte,16,489.6
+977,Cliente_977,27,Rio de Janeiro,12,2007.96
+978,Cliente_978,31,Salvador,3,2219.06
+979,Cliente_979,57,Rio de Janeiro,18,2619.98
+980,Cliente_980,59,Rio de Janeiro,3,1218.63
+981,Cliente_981,55,São Paulo,7,106.25
+982,Cliente_982,23,São Paulo,19,4543.69
+983,Cliente_983,55,Belo Horizonte,17,3183.06
+984,Cliente_984,56,Salvador,15,1281.98
+985,Cliente_985,18,Salvador,11,3599.2
+986,Cliente_986,59,Curitiba,12,3688.6
+987,Cliente_987,44,São Paulo,3,3815.1
+988,Cliente_988,34,Belo Horizonte,18,1240.66
+989,Cliente_989,48,Salvador,17,4254.2
+990,Cliente_990,57,Curitiba,1,345.87
+991,Cliente_991,32,São Paulo,13,4680.72
+992,Cliente_992,46,Salvador,11,2968.6
+993,Cliente_993,29,Salvador,19,3190.37
+994,Cliente_994,52,Rio de Janeiro,17,3703.04
+995,Cliente_995,56,Salvador,3,743.45
+996,Cliente_996,34,Rio de Janeiro,4,4637.98
+997,Cliente_997,59,Rio de Janeiro,1,4664.65
+998,Cliente_998,45,Rio de Janeiro,13,1194.48
+999,Cliente_999,42,Belo Horizonte,4,1305.42
+1000,Cliente_1000,62,Curitiba,15,4446.42
